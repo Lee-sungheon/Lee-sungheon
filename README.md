@@ -58,6 +58,13 @@
 
 2021.04.19 ~ 2021.05.21
 
+[https://github.com/Lee-sungheon/SSAFY_3rd_PROJECT](https://github.com/Lee-sungheon/SSAFY_3rd_PROJECT) - 깃허브
+
+- 삼성 청년 SW 아카데미 3번째 프로젝트
+- 중고 거래 기반 이커머스 사이트
+- Front-end 담당
+- React, React-redux, TypeScript, Styled-component 적용
+
 ### NETCHA
 
 2021.03.02 ~ 2021.04.09
