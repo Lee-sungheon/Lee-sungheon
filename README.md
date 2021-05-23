@@ -59,7 +59,9 @@
 2021.04.19 ~ 2021.05.21
 
 https://github.com/Lee-sungheon/Haggle-Credit - 깃허브
+
 [https://youtu.be/KWd22rdaykY](https://youtu.be/KWd22rdaykY) - UCC
+
 [https://www.notion.so/oct14jh/Haggle-Credit-5504f21c3ea14758be4bc81b1c369264](https://www.notion.so/oct14jh/Haggle-Credit-5504f21c3ea14758be4bc81b1c369264) - Notion
 
 - 삼성 청년 SW 아카데미 3번째 프로젝트
@@ -74,6 +76,7 @@ https://github.com/Lee-sungheon/Haggle-Credit - 깃허브
 2021.03.02 ~ 2021.04.09
 
 [https://github.com/Lee-sungheon/NETCHA](https://github.com/Lee-sungheon/NETCHA) - 깃허브
+
 [https://www.youtube.com/watch?v=fJLitnVILlk](https://www.youtube.com/watch?v=fJLitnVILlk) - UCC
 
 - 삼성 청년 SW 아카데미 2번째 프로젝트
@@ -88,6 +91,7 @@ https://github.com/Lee-sungheon/Haggle-Credit - 깃허브
 2021.01.11 ~ 2021.02.19
 
 https://github.com/Lee-sungheon/LetsMeet - 깃허브
+
 [https://www.youtube.com/watch?v=g1WlhsvUEDY](https://www.youtube.com/watch?v=g1WlhsvUEDY) - 시현영상
 
 - 삼성 청년 SW 아카데미 1번째 프로젝트
@@ -101,6 +105,7 @@ https://github.com/Lee-sungheon/LetsMeet - 깃허브
 2020.11.19 ~ 2020.11.27
 
 https://github.com/Lee-sungheon/WATCHAP - 깃허브
+
 [https://www.youtube.com/watch?v=FOg1flEQ9Do](https://www.youtube.com/watch?v=FOg1flEQ9Do) - 홍보 UCC
 
 - 삼성 청년 SW 아카데미 페어 프로그래밍
