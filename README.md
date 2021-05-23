@@ -59,11 +59,15 @@
 2021.04.19 ~ 2021.05.21
 
 [https://github.com/Lee-sungheon/SSAFY_3rd_PROJECT](https://github.com/Lee-sungheon/SSAFY_3rd_PROJECT) - 깃허브
+[https://youtu.be/KWd22rdaykY](https://youtu.be/KWd22rdaykY) - UCC
+[https://www.notion.so/oct14jh/Haggle-Credit-5504f21c3ea14758be4bc81b1c369264](https://www.notion.so/oct14jh/Haggle-Credit-5504f21c3ea14758be4bc81b1c369264) - Notion
 
 - 삼성 청년 SW 아카데미 3번째 프로젝트
-- 중고 거래 기반 이커머스 사이트
+- 중고 거래 및 경매 기반 이커머스 웹 서비스
+- 주요 서비스 : 경매, 역경매, 기부
 - Front-end 담당
 - React, React-redux, TypeScript, Styled-component 적용
+- [Haggle Credit 사이트 바로가기](https://hagglecredit.com)
 
 ### NETCHA
 
