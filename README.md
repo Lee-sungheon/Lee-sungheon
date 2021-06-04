@@ -136,17 +136,9 @@ https://github.com/Lee-sungheon/WATCHAP - 깃허브
 2020.02 ~ 2020.06
 
 - 웹에 대한 전반적인 과정을 배운 교육
-  - 6개월 교육이지만, 삼성 SW 아카데미 합격으로 인한 중도 퇴소
   - Front-end : HTML, CSS, JavaScript, JQuery
   - Back-end : Java, JSP, MySQL
 
 ### 경북대학교 화학공학과
 
 2013.03 ~ 2019.02
-
-- 학부 과정 때 들었던 컴퓨터 관련 수업
-  - C/C++ 프로그래밍 기초 : A+
-  - 공학 프로그래밍 언어 : A+
-  - 파이썬 프로그래밍 : A
-  - 공정제어1 : A-
-  - SOHO 비즈니스 프로그래밍 : A+
