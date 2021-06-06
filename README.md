@@ -39,10 +39,10 @@
 
 - python
 - Django
+- MySQL
 
 ### DevOps
 
-- MySQL
 - AWS S3, ClountFront
 - Netlify
 
