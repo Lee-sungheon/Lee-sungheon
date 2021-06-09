@@ -64,7 +64,7 @@ https://github.com/Lee-sungheon/Haggle-Credit - 깃허브
 
 [https://www.notion.so/oct14jh/Haggle-Credit-5504f21c3ea14758be4bc81b1c369264](https://www.notion.so/oct14jh/Haggle-Credit-5504f21c3ea14758be4bc81b1c369264) - Notion
 
-- 삼성 청년 SW 아카데미 3번째 프로젝트
+- 5인 프로젝트 (Front-end : 2명 / Back-end : 3명)
 - 중고 거래 및 경매 기반 이커머스 웹 서비스
 - 주요 서비스 : 경매, 역경매, 기부
 - Front-end 담당
@@ -79,7 +79,7 @@ https://github.com/Lee-sungheon/Haggle-Credit - 깃허브
 
 [https://www.youtube.com/watch?v=fJLitnVILlk](https://www.youtube.com/watch?v=fJLitnVILlk) - UCC
 
-- 삼성 청년 SW 아카데미 2번째 프로젝트
+- 5인 프로젝트 (Front-end : 4명 / Back-end : 1명)
 - 추천 알고리즘 기반라이브 스트리밍 서비스
 - 넷플릭스 + 왓챠 클론 코딩
 - Front-end 담당
@@ -94,7 +94,7 @@ https://github.com/Lee-sungheon/LetsMeet - 깃허브
 
 [https://www.youtube.com/watch?v=g1WlhsvUEDY](https://www.youtube.com/watch?v=g1WlhsvUEDY) - 시현영상
 
-- 삼성 청년 SW 아카데미 1번째 프로젝트
+- 5인 프로젝트 (Front-end : 2명 / Back-end : 3명)
 - 사용자 위치 정보를 기반으로 한 약속 장소 추천 및 모임 관리 서비스
 - Front-end 담당
 - Vue.js, Vuex 적용
