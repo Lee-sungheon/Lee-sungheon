@@ -30,7 +30,6 @@
 
 - HTLM5, CSS3(SCSS), JS(ES6)
 - Vue.js
-- Vuex
 - React.js
 - React-redux, Redux-saga
 - Typescript
