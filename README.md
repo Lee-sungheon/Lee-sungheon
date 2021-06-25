@@ -68,7 +68,8 @@ https://github.com/Lee-sungheon/Haggle-Credit - 깃허브
 - 주요 서비스 : 경매, 역경매, 기부
 - Front-end 담당
 - React, React-redux, TypeScript, Styled-component 적용
-- [Haggle Credit 사이트 바로가기](https://hagglecredit.com)
+- [Haggle Credit 사이트 바로가기](https://hagglecredit.com) => 현재 서버 이전 중...
+
 
 ### NETCHA
 
