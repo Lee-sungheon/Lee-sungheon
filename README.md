@@ -108,8 +108,7 @@ https://github.com/Lee-sungheon/WATCHAP - 깃허브
 
 [https://www.youtube.com/watch?v=FOg1flEQ9Do](https://www.youtube.com/watch?v=FOg1flEQ9Do) - 홍보 UCC
 
-- 삼성 청년 SW 아카데미 페어 프로그래밍
-- 개발 공부 시작 후 처음으로 진행해본 웹 프로젝트
+- 2인 프로젝트 (페어 프로그래밍)
 - 영화 정보 기반 추천, 커뮤니티 서비스
 - Front-end 및 Back-end 담당
 - Vue.js, Vuex 적용
