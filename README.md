@@ -51,6 +51,10 @@
 - Jira
 - Notion
 
+# 💻 Work Experience
+
+2021.07.05 ~ ing
+
 # 💻 Projects
 
 ### Haggle Credit
