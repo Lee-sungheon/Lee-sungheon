@@ -28,11 +28,14 @@
 
 ### Front-end
 
-- HTLM5, CSS3(SCSS), JS(ES6)
+- **HTLM5, CSS3(SCSS), JS(ES6)**
 - Vue.js
-- React.js
+- **React.js**
 - React-redux, Redux-saga
-- Typescript
+- **Typescript**
+- **SWR**
+- Styled-components
+- **Stitches**
 
 ### Back-end
 
@@ -50,6 +53,7 @@
 - Git
 - Jira
 - Notion
+- Slack
 
 # 💻 Work Experience
 
@@ -57,8 +61,8 @@
 
 2021.07.05 ~ ing
 
-프론트엔드 개발자
-- 자리톡
+프론트엔드 개발
+- [자리톡](https://zaritalk.com)
 
 # 💻 Projects
 
