@@ -28,17 +28,6 @@
 - Styled-components
 - **Stitches**
 
-### Back-end
-
-- python
-- Django
-- MySQL
-
-### DevOps
-
-- AWS S3, ClountFront
-- Netlify
-
 ### Collabration
 
 - Git
