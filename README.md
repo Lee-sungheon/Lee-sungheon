@@ -16,17 +16,17 @@
 
 # 🛠️ Skills
 
-
 ### Front-end
 
 - **HTLM5, CSS3(SCSS), JS(ES6)**
-- Vue.js
 - **React.js**
+- Next.js
 - React-redux, Redux-saga
 - **Typescript**
 - **SWR**
 - Styled-components
 - **Stitches**
+- - Vue.js
 
 ### Collabration
 
@@ -52,10 +52,8 @@
 
 2020.07.07 ~ 2021.07.06
 
-- 알고리즘 중심의 몰입형 코딩 교육, 실무 기반의
-  프로젝트 수행
-    - 1년 과정 (1학기는 학습 위주, 2학기는 프로젝트 위주)
-    - CS : 알고리즘
+- 알고리즘 중심의 몰입형 코딩 교육, 실무 기반의 프로젝트 수행
+    - 알고리즘
     - Front-end : HTML, CSS, JavaScript, Vue.js
     - Back-end : Python, Django
     - 페어 프로그래밍, 팀 프로젝트를 통한 협업 경험
