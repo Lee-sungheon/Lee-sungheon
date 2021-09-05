@@ -26,7 +26,7 @@
 - **SWR**
 - Styled-components
 - **Stitches**
-- - Vue.js
+- Vue.js
 
 ### Collabration
 
