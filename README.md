@@ -24,8 +24,7 @@
 - React-redux, Redux-saga
 - **Typescript**
 - **SWR**
-- Styled-components
-- **Stitches**
+- css-in-js(Styled-components, Stitches)
 - Vue.js
 
 ### Collabration
