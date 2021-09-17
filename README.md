@@ -5,7 +5,6 @@
 ### Introduction
 
 - 안녕하세요! 주니어 프론트엔드 개발자 이성헌입니다.
-- 비전공 출신(화학공학과) 개발자입니다.
 - 프론트엔드의 최신기술에 관심이 많습니다.
 
 ### Contact & Channel
@@ -20,10 +19,10 @@
 
 - **HTLM5, CSS3(SCSS), JS(ES6)**
 - **React.js**
-- Next.js
+- **Next.js**
 - React-redux, Redux-saga
 - **Typescript**
-- **SWR**
+- SWR
 - css-in-js(Styled-components, Stitches)
 - Vue.js
 
