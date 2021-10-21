@@ -41,8 +41,6 @@
 
 프론트엔드 개발
 - [자리톡](https://zaritalk.com)
-- [자리톡-커뮤니티](https://community.zaritalk.com)
-
 
 # 📖 Education
 
