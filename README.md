@@ -1,5 +1,3 @@
-# 주니어 FE 개발자 이성헌입니다.
-
 # 🙋‍♂️ About Me
 
 ### Introduction
