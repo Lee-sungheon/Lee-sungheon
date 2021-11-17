@@ -16,4 +16,4 @@
 
 ### Ing Project...
 - [Zaritalk (Company-CallbusLab)](https://zaritalk.com)
-- [Gloomy (Side Project)](https://d1gbspr5q497yq.cloudfront.net/community)
+- [Gloomy (Side Project)](https://d1gbspr5q497yq.cloudfront.net)
