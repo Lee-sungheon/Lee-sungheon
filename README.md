@@ -11,7 +11,7 @@
 - **Email** : rkd028@naver.com
 - **Github** : [깃허브](https://github.com/Lee-sungheon)
 - **Blog** : [기술 블로그](https://velog.io/@rkd028)
-- [**AboutMe**](https://velog.io/@rkd028/about)
+- **AboutMe: [AboutMe](https://velog.io/@rkd028/about)
 
 
 ### Ing Project...
