@@ -14,7 +14,6 @@
 - **AboutMe**: [AboutMe](https://velog.io/@rkd028/about)
 
 
-### Ing Project...
-- [Zaritalk (Company-CallbusLab)](https://zaritalk.com)
-- [Gloomy (Side Project)](https://d1gbspr5q497yq.cloudfront.net)
-- [inIT (Side Project)](https://dev.initapp.link)
+### Side Project...
+- [Gloomy](https://d1gbspr5q497yq.cloudfront.net)
+- [inIT](https://dev.initapp.link)
