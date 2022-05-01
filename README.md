@@ -10,6 +10,8 @@
 - 프론트엔드의 최신기술에 관심이 많습니다.
 - 새로운 도전을 두려워하지 않습니다.
 
+### Work
+- [자리톡](https://abr.ge/2wg2k5z)
 
 ### Side Project
 - [인잇(InIT)](https://initapp.link/store-link) 
