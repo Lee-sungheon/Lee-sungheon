@@ -12,7 +12,7 @@
 - [자리톡](https://abr.ge/2wg2k5z)
 
 ### Side Project
-- [인잇(InIT)](https://initapp.link/store-link) 
+- [인잇(InIT)](https://rb.gy/juase7) 
 
 
 ### Skills
