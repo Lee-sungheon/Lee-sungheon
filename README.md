@@ -8,6 +8,8 @@
 
 - 프론트엔드 개발자 이성헌입니다.
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Lee-sungheon)
+
 ### Work
 - [자리톡](https://abr.ge/2wg2k5z)
 
